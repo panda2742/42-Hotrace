@@ -2,6 +2,13 @@
 
 Fast and efficient research!
 
+| Project | 42 Rushes - Hotrace        |
+|:--------|---------------------------:|
+| Locked  | 2026-02-27 20:42 CET:+0100 |
+| Closed  | 2026-03-01 23:42 CET:+0100 |
+| Grade   | 97%  (1⭐ outstanding)    |
+| Retries | 0                          |
+
 ---
 
 # 1. Program Overview
